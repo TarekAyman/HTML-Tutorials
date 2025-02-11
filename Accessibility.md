@@ -1,12 +1,10 @@
 ### **1. `<html lang="en">` - Language Declaration**
 
+- The `lang="en"` attribute helps **screen readers** and search engines understand the language of the page.
+- Example:
 ```html
 <html lang="en">
 ```
-
-- The `lang="en"` attribute helps **screen readers** and search engines understand the language of the page.
-- Example:
-
 ### **2. `<label for="user">` - Accessible Form Label**
 
 - The `<label>` element **associates text with an input field**, improving accessibility.
